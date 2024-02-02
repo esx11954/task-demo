@@ -20,9 +20,9 @@ CREATE TABLE IF NOT EXISTS task (
 
 ```sql
 insert into task(task, due, status) values 
-  ("Springの勉強", "2018/08/22", 0),
-  ("JavaScriptの勉強", "2018/08/22", 0),
-  ("来期目標提出", "2018/08/22", 0)
+  ("Springの課題", "2035/08/22", 0),
+  ("Javaの復習", "2032/04/02", 0),
+  ("勤怠表提出", "2029/11/19", 0)
 ;
 ```
 
